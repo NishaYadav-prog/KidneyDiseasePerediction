@@ -1,0 +1,21 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Kidney Disease Prediction</title>
+  </head>
+  <body>
+    <h2>Enter Patient Data for Kidney Disease Prediction</h2>
+    <form action="/predict" method="post">
+      <label>Age:</label><input type="text" name="age" /><br />
+      <label>Blood Pressure:</label><input type="text" name="bp" /><br />
+      <!-- Add other input fields here similar to the above based on dataset columns -->
+      <button type="submit">Predict</button>
+    </form>
+    {% if prediction_text %}
+    <h3>{{ prediction_text }}</h3>
+    {% endif %}
+  </body>
+</html>
