@@ -29,7 +29,7 @@ Clean and interactive web interface
 Exportable results and reports
 
 📁 Dataset
-Used the Chronic Kidney Disease dataset from the UCI Machine Learning Repository or Kaggle (mention the exact source).
+Used the Chronic Kidney Disease dataset from the Kaggle.
 
 🚀 How to Run
 bash
@@ -41,15 +41,14 @@ pip install -r requirements.txt
 python app.py  
 Then open http://localhost:5000/ in your browser.
 
-📷 Screenshots
-(Add 1–2 screenshots of the UI if possible)
+
 
 📚 Future Scope
 Adding patient history record system
 
 Integration with hospital management software
 
-Deploy on cloud (e.g., Heroku, Render, etc.)
+
 
 🧠 Algorithms Used
 Logistic Regression
@@ -60,7 +59,7 @@ Decision Tree
 
 SVM
 
-KNN (optional)
+KNN 
 
 🙋‍♀️ Author
 Nisha Yadav
