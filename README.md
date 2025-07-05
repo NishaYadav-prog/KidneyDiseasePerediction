@@ -16,6 +16,9 @@ The goal is to provide early detection using ML models and a user-friendly inter
 🧪 Jupyter Notebook (Model training and evaluation)
 
 🖥 HTML/CSS/Bootstrap (Frontend for Flask App)
+![Screenshot (289)](https://github.com/user-attachments/assets/95c8087b-101a-449c-95ff-c43907f84f28)
+
+
 
 🔍 Features
 Upload and input patient medical parameters
