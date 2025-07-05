@@ -16,6 +16,8 @@ The goal is to provide early detection using ML models and a user-friendly inter
 🧪 Jupyter Notebook (Model training and evaluation)
 
 🖥 HTML/CSS/Bootstrap (Frontend for Flask App)
+![Screenshot (290)](https://github.com/user-attachments/assets/ca01d765-e531-4d9e-8011-b8faba5150d1)
+
 ![Screenshot (289)](https://github.com/user-attachments/assets/95c8087b-101a-449c-95ff-c43907f84f28)
 
 
